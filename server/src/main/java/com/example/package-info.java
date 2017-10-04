@@ -1,4 +1,4 @@
 /**
- * This is a package name - spark
+ * This is a package name - spark.
  */
 package com.example;
